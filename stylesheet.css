@@ -9,14 +9,18 @@
     width: 79px;
     height: 70px;
 }
+
 .navbar {
     height: 40px;
+
 }
 
 #navItem1 {
     color: white;
     font-family: "Roboto";
+    background-color:#007bff;
 }
+
 
 #navItem1:hover {
     background-color: white;
@@ -92,6 +96,7 @@
     background-image: url("https://i.ytimg.com/vi/L8Lrwh3HOJw/maxresdefault.jpg");
     height: 100vh;
     background-size: cover;
+    
 }
 
 .banner-heading {
@@ -146,7 +151,7 @@
     padding-top: 20px;
     font-family: Roboto;
     font-weight: bold;
-    color:blue;
+    color: blue;
 }
 
 .aboutparagraph {
@@ -249,6 +254,7 @@
     font-family: "Roboto";
     font-size: 14px;
 }
+
 body {
     font-family: 'Arial', sans-serif;
     background-color: #f8f9fa;
@@ -283,6 +289,7 @@ img.img-fluid {
     border-radius: 4px;
     padding: 5px;
 }
+
 body {
     font-family: 'Arial', sans-serif;
     background-color: #f8f9fa;
@@ -325,6 +332,7 @@ img.img-fluid {
     border-radius: 4px;
     padding: 5px;
 }
+
 body {
     font-family: 'Arial', sans-serif;
     background-color: #f8f9fa;
@@ -370,6 +378,7 @@ h2.section-heading {
     background-color: #007bff;
     border-color: #007bff;
 }
+
 body {
     font-family: 'Arial', sans-serif;
     background-color: #f8f9fa;
@@ -439,40 +448,50 @@ textarea.form-control {
     border-color: #007bff;
     padding: 10px 20px;
 }
+
 body {
-    padding-top: 56px; /* Adjusted for fixed navbar height */
+    padding-top: 56px;
+    /* Adjusted for fixed navbar height */
 }
 
 .navbar {
-    background-color: #3b09f0; /* Navbar background color */
+    background-color: #3b09f0;
+    /* Navbar background color */
 }
 
 .navbar-brand {
-    color: white; /* Navbar brand text color */
+    color: white;
+    /* Navbar brand text color */
 }
 
 .navbar-nav .nav-link {
-    color: white; /* Navbar link text color */
+    color: white;
+    /* Navbar link text color */
 }
 
 .banner-section-bg-container {
-    background-color: #f8f9fa; /* Banner section background color */
+    background-color: #f8f9fa;
+    /* Banner section background color */
     padding: 100px 0;
     text-align: center;
 }
 
 .banner-heading {
-    color: #007bff; /* Banner heading color */
+    color: #007bff;
+    /* Banner heading color */
 }
 
 .banner-caption {
-    color: #495057; /* Banner caption color */
+    color: #495057;
+    /* Banner caption color */
 }
 
 .custom-button,
 .custom-outline-button {
-    background-color: #007bff; /* Button background color */
-    color: white; /* Button text color */
+    background-color: #007bff;
+    /* Button background color */
+    color: white;
+    /* Button text color */
     margin: 10px;
     padding: 10px 20px;
     border: none;
@@ -495,7 +514,8 @@ body {
 }
 
 .card {
-    border: 1px solid #dee2e6; /* Card border color */
+    border: 1px solid #dee2e6;
+    /* Card border color */
     border-radius: 5px;
 }
 
@@ -505,11 +525,13 @@ body {
 
 .contact-section,
 .follow-us-section {
-    background-color: #f8f9fa; /* Section background color */
+    background-color: #f8f9fa;
+    /* Section background color */
     padding: 80px 0;
 }
 
 .contact-section h2,
 .follow-us-section h2 {
-    color: #007bff; /* Section heading color */
+    color: #007bff;
+    /* Section heading color */
 }
