@@ -1,0 +1,515 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.spanelement {
+    color: rgb(8, 8, 255);
+    font-weight: bold;
+}
+
+.food-munch-logo {
+    width: 79px;
+    height: 70px;
+}
+.navbar {
+    height: 40px;
+}
+
+#navItem1 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem1:hover {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+}
+
+#navItem2:hover {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+}
+
+#navItem3:hover {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+}
+
+#navItem4:hover {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+}
+
+#navItem1:hover {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+}
+
+#navItem1:hover {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+}
+
+#navItem5:hover {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+}
+
+#navItem2 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem5 {
+    color: white;
+    font-family: "Roboto";
+}
+
+.nav-para {
+    font-size: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+}
+
+.banner-section-bg-container {
+    background-image: url("https://i.ytimg.com/vi/L8Lrwh3HOJw/maxresdefault.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.banner-caption {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: Bold;
+}
+
+.custom-button {
+    color: white;
+    background-image: linear-gradient(blue, black);
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 8px;
+    border-color: white;
+    margin-right: 10px;
+}
+
+.custom-outline-button {
+    color: white;
+    background-image: linear-gradient(blue, black);
+
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 8px;
+    border-color: white;
+}
+
+.span-object {
+    color: blue;
+    font-weight: bold;
+}
+
+.aboutsection-card {
+    padding: 24px;
+}
+
+.aboutheading {
+    font-size: 30px;
+    padding-top: 20px;
+    font-family: Roboto;
+    font-weight: bold;
+    color:blue;
+}
+
+.aboutparagraph {
+    font-size: 20px;
+    font-family: Roboto;
+}
+
+.jobdetails {
+    padding: 20px;
+    margin: 10px;
+}
+
+.jobsheading {
+    font-size: 34px;
+    color: blue;
+    font-weight: bold;
+
+}
+
+.jobspara {
+    font-size: 20px;
+}
+
+.company-image {
+    width: 100%;
+}
+
+.company-name {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.company-role {
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.company-salary {
+    font-size: 20px;
+    font-family: "Roboto";
+}
+
+.applybutton {
+    text-align: center;
+}
+
+.Coursesection-heading {
+    font-size: 34px;
+    color: blue;
+    font-weight: bold;
+
+}
+
+.courseimage {
+    width: 100%;
+}
+
+.course-details {
+    text-align: center;
+}
+
+.course-name {
+    font-size: 40px;
+
+}
+
+.follow-us-icon-container {
+    background-color: lightblue;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 28px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 32px;
+    color: black;
+}
+
+.heading {
+    color: blue;
+    font-weight: bold;
+}
+
+.footer-section {
+    background-color: lightblue;
+}
+
+.footer-section-mail-id {
+    color: black;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: black;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #343a40;
+}
+
+#AboutSection {
+    background-color: #ffffff;
+    padding: 60px 0;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #007bff;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+img.img-fluid {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #343a40;
+}
+
+#AboutSection {
+    background-color: #ffffff;
+    padding: 60px 0;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.col-lg-6 {
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    padding: 20px;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #007bff;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+img.img-fluid {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #343a40;
+}
+
+#DepartmentsSection {
+    background-color: #ffffff;
+    padding: 60px 0;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.department-container {
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    padding: 20px;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+}
+
+h2.section-heading {
+    font-size: 2.5rem;
+    color: #007bff;
+    margin-bottom: 20px;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+.card-text {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #343a40;
+}
+
+#ContactSection {
+    background-color: #ffffff;
+    padding: 60px 0;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #007bff;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+address {
+    font-style: normal;
+}
+
+.contact-box {
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    padding: 20px;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+}
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+textarea.form-control {
+    resize: vertical;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    padding: 10px 20px;
+}
+body {
+    padding-top: 56px; /* Adjusted for fixed navbar height */
+}
+
+.navbar {
+    background-color: #3b09f0; /* Navbar background color */
+}
+
+.navbar-brand {
+    color: white; /* Navbar brand text color */
+}
+
+.navbar-nav .nav-link {
+    color: white; /* Navbar link text color */
+}
+
+.banner-section-bg-container {
+    background-color: #f8f9fa; /* Banner section background color */
+    padding: 100px 0;
+    text-align: center;
+}
+
+.banner-heading {
+    color: #007bff; /* Banner heading color */
+}
+
+.banner-caption {
+    color: #495057; /* Banner caption color */
+}
+
+.custom-button,
+.custom-outline-button {
+    background-color: #007bff; /* Button background color */
+    color: white; /* Button text color */
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.custom-outline-button {
+    background-color: transparent;
+    border: 1px solid #007bff;
+}
+
+.section {
+    padding: 80px 0;
+}
+
+.section-heading {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.card {
+    border: 1px solid #dee2e6; /* Card border color */
+    border-radius: 5px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.contact-section,
+.follow-us-section {
+    background-color: #f8f9fa; /* Section background color */
+    padding: 80px 0;
+}
+
+.contact-section h2,
+.follow-us-section h2 {
+    color: #007bff; /* Section heading color */
+}
